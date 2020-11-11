@@ -18639,7 +18639,7 @@
       "id": 91,
       "properties": {
         "ID": 16,
-        "kode": 91,
+        "kode": 94,
         "Propinsi": "PAPUA",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
@@ -39316,7 +39316,7 @@
       "id": 92,
       "properties": {
         "ID": 23,
-        "kode": 94,
+        "kode": 91,
         "Propinsi": "PAPUA BARAT",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
